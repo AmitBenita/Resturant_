@@ -1,0 +1,8 @@
+The kitchen was created
+4 Pasta were added to the kitchen
+We don't have Falafel, sorry!
+4 Pasta were added to table number 5
+1 Pasta has returned to kitchen from table number 5
+table 1 has not ordered yet
+3 Pasta. 90.00 nis please!
+The most popular dish today was Pasta!(was ordered 4 times)
